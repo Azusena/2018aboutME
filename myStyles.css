@@ -1,0 +1,39 @@
+body{
+  font-family:cursive;
+    margin: 20px;
+    font-size: 24px;
+}
+.Aboutme{
+    background-image: url("flower-wallpaper-118.jpg");
+    background-size: cover;
+}
+
+.Education{
+    background-image: url("Education.jpg");
+    background-size: cover;
+}
+.ThroughtheLens{
+    background-image: url("Woodwallpaper.jpg");
+    background-size: cover;
+}
+.Shows{
+    background-image: url("images.png");
+    background-size: cover;
+
+}
+#navbar{
+    color: Black;
+    margin: 30px;
+}
+
+#navbar a{
+    float: right;
+    padding: 20px;
+}
+
+.containers {
+    margin: 5px 0px;
+    border: 1px solid black;
+    border-radius:10px;
+    padding: 20px;
+}
